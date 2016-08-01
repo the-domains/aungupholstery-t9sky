@@ -1,4 +1,3 @@
-layout_spectrum: 0.9187463151756674
 typography_spectrum: 0.8715878317598253
 color:
   brandStrength: 0.8767702961340547
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.9187463151756674
 name: Aungupholstery
 title: The Art of Furniture Upholstery
+description: 'Incorporate aesthetic, details and comfort'
